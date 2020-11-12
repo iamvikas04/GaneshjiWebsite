@@ -1,5 +1,5 @@
-# myganeshjiwebsite
+# My GaneshJI Website
 
-my first website
-* Happy Ganesh Chaturthi.
+* My First Website
+# Happy Ganesh Chaturthi.
 
